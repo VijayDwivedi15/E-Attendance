@@ -127,12 +127,14 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Attendance.aspx" />
+    <Content Include="Attendance.txt" />
     <Content Include="Content\bootstrap.css" />
     <Content Include="Content\bootstrap.min.css" />
     <Content Include="Content\Site.css" />
     <Content Include="Employee.aspx" />
     <Content Include="Excel.aspx" />
     <Content Include="favicon.ico" />
+    <Content Include="Files\Attendance.txt" />
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
     <Content Include="Global.asax" />
     <Content Include="fonts\glyphicons-halflings-regular.woff" />
@@ -268,7 +270,6 @@
   <ItemGroup>
     <Folder Include="App_Data\" />
     <Folder Include="ExcelFile\" />
-    <Folder Include="Files\" />
     <Folder Include="obj\Debug\TempPE\" />
   </ItemGroup>
   <ItemGroup>
